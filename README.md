@@ -68,42 +68,42 @@ Cada componente abaixo representa uma **etapa do fluxo** e está documentado de 
 ### 💡 Entrada de Ideias  
 Ponto único de entrada para registro de demandas, garantindo padronização e rastreabilidade desde a origem.
 
-📄 [`pdfs/entrada-ideias.pdf`](pdfs/entrada-ideias.pdf)
+📄 [`pdfs/entrada-ideias.pdf`](pdfs/Entrada-de-ideias.pdf)
 
 ---
 
 ### 🧮 Priorização Estruturada  
 Avaliação justa e transparente das demandas, baseada em critérios claros e múltiplas visões.
 
-📄 [`pdfs/priorizacao.pdf`](pdfs/priorizacao.pdf)
+📄 [`pdfs/priorizacao.pdf`](pdfs/Priorização.pdf)
 
 ---
 
 ### 📋 Backlog Executivo  
 Visão centralizada e executiva das demandas priorizadas.
 
-📄 [`pdfs/backlog.pdf`](pdfs/backlog.pdf)
+📄 [`pdfs/backlog.pdf`](pdfs/Backlog.pdf)
 
 ---
 
 ### 🗂️ Gestão de Projetos  
 Momento em que a ideia se transforma em projeto formal.
 
-📄 [`pdfs/projetos.pdf`](pdfs/projetos.pdf)
+📄 [`pdfs/projetos.pdf`](pdfs/Projetos.pdf)
 
 ---
 
 ### ✅ Execução, Tarefas e Histórico  
 Gestão do trabalho diário com rastreabilidade total.
 
-📄 [`pdfs/gestao-tarefas.pdf`](pdfs/gestao-tarefas.pdf`)
+📄 [`pdfs/gestao-tarefas.pdf`](pdfs/Gestão-de-Tarefas.pdf`)
 
 ---
 
 ### 🧾 Inventário de Processos e Documentação Automatizada  
 Consolidação técnica do conhecimento gerado.
 
-📄 [`pdfs/inventario-processos-documentacao.pdf`](pdfs/inventario-processos-documentacao.pdf)
+📄 [`pdfs/inventario-processos-documentacao.pdf`](pdfs/Inventário-de-Processos-e-Documentação.pdf)
 
 ---
 
