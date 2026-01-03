@@ -2,6 +2,8 @@
 
 > Documento focado exclusivamente em decisões arquiteturais e trade-offs.
 
+![](assets/arquitetura.png)
+
 ## Problema de Origem
 Volume de demandas, ausência de governança, falta de priorização, retrabalho e risco operacional.
 
